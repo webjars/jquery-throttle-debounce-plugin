@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-throttle-debounce-plugin</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <name>jquery-throttle-debounce-plugin</name>
     <description>WebJar for jquery-throttle-debounce-plugin</description>
     <url>http://webjars.org</url>
@@ -58,7 +58,7 @@
         <url>http://github.com/webjars/jquery-throttle-debounce-plugin</url>
         <connection>scm:git:https://github.com/webjars/jquery-throttle-debounce-plugin.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-throttle-debounce-plugin.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jquery-throttle-debounce-plugin-1.1</tag>
     </scm>
     
     <dependencies>
